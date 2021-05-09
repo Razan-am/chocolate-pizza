@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+#right{
+    float: left;
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    margin-left: 70px;
+}
+#right p{
+    font-family: 'Darker Grotesque', sans-serif;
+    margin-left: 70px;
+    font-size: 10px;
+}
+#logo{
+    width: 60px;
+    top: -600px;
+    position: relative;
+}
+
+#line{
+    margin-left: 200px;
+    width: 600px;
+    top: -250px;
+    position: relative;
+}
+#left{
+    float: right;
+    margin-top: 25px;
+    margin-right: 60px;
+}
+
+
+main{
+    clear: both;    
+}
+
+#first{
+    clear: both;
+    top: -450px;
+    position: relative;
+    margin-left: 90px;
+}
+h3{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+#first p {
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 15px;
+    color:rgb(146, 144, 144);
+    margin-bottom: 40px;
+}
+#choco{
+    width: 1112px;
+}
+
+#print{
+    right: 70px;
+    top: -790px;
+    position: relative;
+    width: 20px;
+}
+#pPrint{
+    display: inline;
+    right: 72px;
+    top: -790px;
+    position: relative;
+}
