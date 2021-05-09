@@ -95,7 +95,7 @@ h3{
 }
 #third{
     clear: both;
-    top: -500px;
+    top: -390px;
     position: relative;
     margin-left: 90px;
     
@@ -111,7 +111,7 @@ h3{
 }
 #Fourth{
     clear: both;
-    top: 1900px;
+    top: 2000px;
     position: absolute;
     margin-left: 90px;
 }
@@ -150,7 +150,7 @@ h6 {
 footer{
     clear: both;
     left: 450px;
-    top: 2100px;
+    top: 2200px;
     position: absolute;
     margin-left: 90px;
 
@@ -164,9 +164,14 @@ footer{
     width: 20px;
     position: relative;
 }
-.copy{
-    right: 90px;
+footer p{
+    right: 70px;
     position: relative;
     font-size: 20px;
     color: dimgray;
+    padding-bottom: 10px;
+}
+#copy{
+    right: 25px;
+    position: relative;
 }
