@@ -77,3 +77,96 @@ h3{
     top: -790px;
     position: relative;
 }
+
+#secound{
+    clear: both;
+    top: -400px;
+    position: relative;
+    margin-left: 90px;
+    
+}
+#secound p{
+    color:dimgray;
+    width: 1100px;
+    padding-left: 15px;
+    padding-bottom: 40px;
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+#third{
+    clear: both;
+    top: -500px;
+    position: relative;
+    margin-left: 90px;
+    
+}
+#list{
+    width: 1100px;
+}
+#line2{
+    width: 1200px;
+    right: 50px;
+    top: -500px;
+    position: relative;
+}
+#Fourth{
+    clear: both;
+    top: 1900px;
+    position: absolute;
+    margin-left: 90px;
+}
+#pic{
+    float: left;
+    width: 100px;
+
+}
+h6 {
+    
+    left: 50px;
+    position: relative;
+    font-size: 30px;
+    padding-bottom: 20px;
+    color: dimgray;
+
+}
+#Fourth p{
+    left: 50px;
+    position: relative;
+    font-size: 20px;
+    color: gray;
+}
+#Fourth button{
+    top: -80px;
+    left: 800px;
+    position: relative;
+    width: 180px;
+    height: 60px;
+    background-color: brown;
+    color: burlywood;
+    font-size: 15px;
+    border: hidden;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    clear: both;
+    left: 450px;
+    top: 2100px;
+    position: absolute;
+    margin-left: 90px;
+
+}
+#sLogo{
+    margin-left: 20px;
+    margin-bottom: 30px;
+    width: 50px;
+}
+#copyrights{
+    width: 20px;
+    position: relative;
+}
+.copy{
+    right: 90px;
+    position: relative;
+    font-size: 20px;
+    color: dimgray;
+}
