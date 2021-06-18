@@ -33,6 +33,7 @@ h1{
     position: relative;
 }
 #left{
+    /* float: right; */
     padding-top: 25px;
 }
 
@@ -137,18 +138,22 @@ h3{
     left:30px ;
     position: relative;
     display: block; 
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 
 #line2{
     width: 1000px;
-    left: 100px;
-    top: 1500px;
-    position: absolute;
+    right: 50px;
+    top: -500px;
+    position: relative;
 }
 #Fourth{
     clear: both;
-    top: 2100px;
+    top: 2000px;
     position: absolute;
     margin-left: 90px;
 }
@@ -187,15 +192,14 @@ h6 {
 footer{
     clear: both;
     left: 450px;
-    top: 2300px;
+    top: 2200px;
     position: absolute;
     margin-left: 90px;
 }
 #sLogo{
     margin-left: 60px;
-    margin-top: 20px;
-    padding-bottom: 30px;
-    width: 40px;
+    margin-bottom: 30px;
+    width: 50px;
 }
 #copyrights{
     width: 20px;

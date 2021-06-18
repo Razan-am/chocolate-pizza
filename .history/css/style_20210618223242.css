@@ -123,7 +123,7 @@ h3{
 }
 #leftUl form {
     z-index: 50;
-    right: 250px;
+    /* right: 250px; */
     top: 550px;
     position: relative;
     font-size: 20px;
@@ -187,7 +187,7 @@ h6 {
 footer{
     clear: both;
     left: 450px;
-    top: 2300px;
+    top: 2200px;
     position: absolute;
     margin-left: 90px;
 }

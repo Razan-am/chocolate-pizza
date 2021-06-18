@@ -121,6 +121,9 @@ h3{
 #leftUl{
     float: right;
 }
+#leftUl label{
+    padding-top: 10px;
+}
 #leftUl form {
     z-index: 50;
     right: 250px;
@@ -187,7 +190,7 @@ h6 {
 footer{
     clear: both;
     left: 450px;
-    top: 2300px;
+    top: 2200px;
     position: absolute;
     margin-left: 90px;
 }
